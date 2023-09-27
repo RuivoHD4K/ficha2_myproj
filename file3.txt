@@ -1,9 +1,16 @@
-Este é o exemplo de um ficheiro de texto file3
-
 <h2>Comidas</h2>
 
 <ul>
   <li>Bolos</li>
   <li>Tostas</li>
   <li>Sandes</li>
+</ul>
+
+
+<h2>bebidas</h2>
+  
+<ul>
+  <li>coffee</li>
+  <li>tea</li>
+  <li>milk</li>
 </ul>
