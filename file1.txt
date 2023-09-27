@@ -8,4 +8,6 @@ Eliminei a primeira linha e escrevi esta
 
 a
 alterações efetuadas no branch NovaFeature
+Alteração no branch MASTER
+
 
